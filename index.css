@@ -49,3 +49,9 @@ body {
 .items {
     margin: 25px 0 25px 0;
 }
+
+.video {
+    font-size: 2rem;
+    margin-bottom: 25px;
+    text-decoration: none;
+}
